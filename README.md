@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![https://jrgenweb.github.io/newsletter-sign-up-with-success-message-main/screenshot.png](https://jrgenweb.github.io/newsletter-sign-up-with-success-message-main/screenshot.png)
+![https://jrgenweb.github.io/newsletter-sign-up-with-success-message-main/screenshot.webp](https://jrgenweb.github.io/newsletter-sign-up-with-success-message-main/screenshot.webp)
 
 ### Links
 
